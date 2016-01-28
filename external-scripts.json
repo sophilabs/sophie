@@ -11,5 +11,10 @@
   "hubot-shipit",
   "hubot-heroku-keepalive",
   "hubot-standup-alarm",
-  "hubot-redis-brain"
+  "hubot-redis-brain",
+  "hubot-thank-you",
+  "hubot-victory",
+  "hubot-motivate",
+  "hubot-fliptable",
+  "hubot-secret-ballot"
 ]
